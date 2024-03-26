@@ -157,7 +157,7 @@ CORS_ALLOWED_ORIGINS = [
 ]
 
 # CORS_ALLOWED_ORIGINS = [
-#     "https://cloudarchitecture.work",
+    # "https://budgetcloud.ca",
 # ]
 
 CORS_ALLOW_ALL_ORIGINS = True
